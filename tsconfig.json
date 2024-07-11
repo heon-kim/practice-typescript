@@ -1,0 +1,9 @@
+{
+  "include": ["src"], // 어디에 있는 코드를 컴파일할 지
+  "compilerOptions": {
+    // 어디에 컴파일한 파일을 넣을지
+    "outDir": "build",
+    // JS버전 설정
+    "target": "ES6"
+  }
+}
